@@ -53,17 +53,16 @@ END
 
 
 **OUTPUT:**
+![WhatsApp Image 2025-10-24 at 09 44 31_6b2c9b38](https://github.com/user-attachments/assets/96aba8b1-3eb1-458a-8a27-73dff74c586c)
 
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1917" height="986" alt="descending before" src="https://github.com/user-attachments/assets/ebf3939b-6aca-4415-9b91-a7a1885b26ac" />
+
 After execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1918" height="982" alt="descending after" src="https://github.com/user-attachments/assets/86b9b865-215d-4ed1-8815-5eb72416ed42" />
+
 
 
 **(ii)	Ascending order**
@@ -113,20 +112,18 @@ DJNZ R7,LOOP1
 END
 
 **OUTPUT:**
+![WhatsApp Image 2025-10-24 at 09 44 31_299e17b2](https://github.com/user-attachments/assets/f3e192d9-fc80-4b14-a73d-a066ce16f5ef)
 
 **MEMORY WINDOW:** 
 
 **Before execution:**
 D:0x40H:
-<BR>
-<BR>
-<BR>
-<BR>
+<img width="1917" height="987" alt="assending before" src="https://github.com/user-attachments/assets/8233c0e8-ada2-4c24-8493-5a2cf000d4bf" />
+
 After execution:
 D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="1917" height="987" alt="asss  after" src="https://github.com/user-attachments/assets/882b8b6f-2fcc-45be-ae5d-a0309075f06a" />
+
 **Result:**
 
 Thus the sorting of given data was done using 8051 keil and shown the output.
